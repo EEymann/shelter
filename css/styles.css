@@ -1,14 +1,35 @@
 .column1 {
   width: 300px;
   float: left;
+  font-style: italic;
+  font-size: 17px;
+}
+ 
+
+  .column1 p {
+    background-color: violet;
   }
+
+
 
 .column2 {
   width: 300px;
   float: left;
+  font-style: italic;
+  font-size: 17px;
+}
+
+.column2 p {
+  background-color: orange;
 }
 
 .column3 {
   width: 300px;
   float: left;
+  font-style: italic;
+  font-size: 17px;
+}
+
+.column3 p {
+  background-color: lightblue;
 }
